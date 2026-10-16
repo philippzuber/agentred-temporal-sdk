@@ -22,6 +22,8 @@ to docs, or any other relevant information.
 
 ### Added
 
+- Added experimental `worker.GetSlotUsage`, which returns a snapshot of a worker's task slot usage.
+
 ### Changed
 
 ### Deprecated
