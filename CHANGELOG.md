@@ -22,7 +22,8 @@ to docs, or any other relevant information.
 
 ### Added
 
-- Added experimental `worker.GetSlotUsage`, which returns a snapshot of a worker's task slot usage.
+- Added experimental `worker.GetInfo`, which returns a snapshot of a worker's state, currently its task
+  slot usage.
 
 ### Changed
 
