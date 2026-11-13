@@ -30,6 +30,8 @@ to docs, or any other relevant information.
 
 ### Fixed
 
+- agentRed maintained backport: prevent a dispatcher data race when a workflow coroutine reported as deadlocked later starts another coroutine (upstream #2853).
+
 ### Security
 
 ## [1.50.0] - 2026-10-15
